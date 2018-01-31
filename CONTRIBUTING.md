@@ -38,7 +38,7 @@ review, testing, and patches.
 #### You intend to make a new feature or change an existing one
 
 - Suggest your change in the [messaging Gitter channel](
-  https://gitter.im/commercecoop/messaging) to get
+  https://gitter.im/shoppersshop/messaging) to get
   feedback and engage with the maintainers.
   
 - In the meantime, start writing code!
@@ -48,7 +48,7 @@ review, testing, and patches.
 
 #### You have questions about the source code
 
-- Come find us on [Gitter](https://gitter.im/messaging)! We're friendly and
+- Come find us on [Gitter](https://gitter.im/shoppersshop)! We're friendly and
   love to help.
   
 Thanks for your interest in pitching in! See you in the code.
