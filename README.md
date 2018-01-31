@@ -76,4 +76,6 @@ variables:
 - `SCHEMA_REGISTRY_URL`: Address of Confluent Schema Registy, which is needed
   to decode messages sent in Kafka.
 
+## License
 
+MIT
