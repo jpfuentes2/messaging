@@ -53,4 +53,4 @@ review, testing, and patches.
   
 Thanks for your interest in pitching in! See you in the code.
 
-Commmerce Cooperative Maintainers
+SHOP Cooperative Maintainers
