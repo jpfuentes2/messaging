@@ -76,6 +76,15 @@ variables:
 - `SCHEMA_REGISTRY_URL`: Address of Confluent Schema Registy, which is needed
   to decode messages sent in Kafka.
 
+# Contributing
+
+Thanks for considering to help out with our source code! We operate on an open
+contributor model where anyone across the Internet can help in the form of peer
+review, testing, and patches.
+
+For more details about how to get involved, see our
+[Contribution Guide](https://github.com/ShoppersShop/messaging/blob/master/CONTRIBUTING.md)
+
 ## License
 
 MIT
