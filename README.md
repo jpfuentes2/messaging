@@ -66,6 +66,7 @@ $ make docker
 In order to run the SHOP Messaging image, set the following environment
 variables:
 
+- `PORT`: port number for this service to bind to, defaults to `15054`;
 - `ENVIRONMENT`: can be "staging" or "production";
 - `PHOENIX_USER` / `PHOENIX_PASSWORD` / `PHOENIX_URL`: Messaging needs to be
   able to access [Phoenix](https://github.com/ShoppersShop/phoenix) to access
